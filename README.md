@@ -6,7 +6,7 @@
 
 pkg update
 
-pkg install git
+pkg install git python python2
 
 git clone https://github.com/shadowwalker005/ddos
 
